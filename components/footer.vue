@@ -37,7 +37,7 @@
             </li>
           </ul>
           <hr class="small" />
-          <p class="text-muted">Copyright &copy; Aaron Tidwell 2016</p>
+          <p class="text-muted">Copyright &copy; Aaron Tidwell 2021</p>
         </div>
       </div>
     </div>
