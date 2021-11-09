@@ -32,7 +32,26 @@ export function state() {
       "description": "Yeoman scaffolding tool for module-based node.js projects.",
       "indexProjectLibrary": true,
       "technology": ["node.js", "yeoman", "mongodb"]
-    }, {
+    }, 
+    {
+      "type": "content site",
+      "name": "RHPSNews.com",
+      "url": "http://www.rhpsnews.com",
+      "image": "/images/portfolio-rhpsnews.png",
+      "description": "News Site Catering to the Rocky Horror Community.",
+      "indexProjectSite": true,
+      "technology": ["vue.js", "nuxt", "node.js", "mongodb"]
+    },
+    {
+      "type": "application",
+      "name": "RHPSLive.com",
+      "url": "http://www.rhpslive.com",
+      "image": "/images/portfolio-rhpslive.png",
+      "description": "Live Streaming Video Site catering to the Rocky Horror Community.",
+      "indexProjectSite": true,
+      "technology": ["vue.js", "nuxt", "node.js", "mongodb"]
+    },
+    {
       "type": "application",
       "name": "Faeria Decks",
       "url": "http://www.faeriadecks.com",
@@ -48,7 +67,6 @@ export function state() {
       "image": "/images/portfolio-hsgg.jpg",
       "github": "https://github.com/Tidwell/hearthstone.gg-static",
       "description": "Hearthstone content.",
-      "indexProjectSite": true,
       "technology": ["node.js", "dgeni", "grunt"]
     }, {
       "type": "application",
@@ -66,7 +84,6 @@ export function state() {
       "image": "/images/portfolio-scrollstoolbox.jpg",
       "github": "https://github.com/Tidwell/scrollstoolbox",
       "description": "Scrolls collection tracking MOD and application.",
-      "indexProjectSite": true,
       "technology": ["node.js", "socket.io", "angular.js", "mongodb"]
     }, {
       "type": "application",

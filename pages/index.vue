@@ -13,7 +13,7 @@
         <div class="container">
           <div class="row text-center">
             <div class="col-lg-10 col-lg-offset-1">
-              <h2>Projects - Libraries</h2>
+              <h2>My Projects - Libraries</h2>
               <hr class="small" />
               <div class="row">
                 <div
@@ -56,7 +56,7 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-10 col-lg-offset-1 text-center">
-              <h2>Projects - Sites</h2>
+              <h2>My Projects - Sites</h2>
               <hr class="small" />
               <div class="row">
                 <div
